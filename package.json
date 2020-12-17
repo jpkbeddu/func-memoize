@@ -1,0 +1,23 @@
+{
+  "name": "func-memoize",
+  "version": "0.0.0",
+  "description": "Memoization of function with a distributed cache like Redis",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "cache",
+    "memoize",
+    "redis"
+  ],
+  "author": "Prasanna Jagadeesa",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^4.3.1",
+    "redis": "^3.0.2"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
