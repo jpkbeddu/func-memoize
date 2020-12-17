@@ -1,6 +1,6 @@
 {
   "name": "func-memoize",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Memoization of function with a distributed cache like Redis",
   "main": "index.js",
   "scripts": {
